@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello guys! i'm Ridho Sachlan 👋
 
+![Ridho Sachlan](img/github-header.png)
 <!--
 **ridhosch/ridhosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Informatics](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q1ODR6eWwxYzN5NHNhbGVxN3Q1MXk2bjZ4YTlzdDJsM2ZvZndyYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif)
