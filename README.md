@@ -1,32 +1,89 @@
-## Hello guys! i'm Ridho Sachlan 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
+<div align="center">
+  <samp>
+    <b>
+      情報工学
+      <br>
+      Olá, meu nome é io !
+      <br>
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/meow_♡-black" />
+</div>
 
-<!--
-**ridhosch/ridhosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Indonesia;I'm+a+student+of+Informatics+Engineering;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-Here are some ideas to get you started:
+<br>
+<details align="center">
+    <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
+    <br>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8) |
+| :-: | :-: | :-: |
 
-##### Skills
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=io&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
+</div>
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}" /> 
+<div align="center" style="display: inline_block"><br>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  
+</div>
 
+<br>
 
+##
 
-##### Connect with me
+<br>
 
-<a href="https://instagram.com/ridhosch" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/ridho-sachlan-28305a384" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<div align="center">
 
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:ridhosachlan1@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/ridhosch)
+  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discordapp.com/users/1087695913855746129)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/+628568768323)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/ridho-sachlan-28305a384/)
+  
+  
+</div>
 
+<div align="center">
 
+<p align="center">
+      <samp>
+        <a href="www.linkedin.com/in/ridho-sachlan-28305a384">ridho sachlan</a> ⊹
+      </samp>
+  </p>
 
-![Informatics](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Q1ODR6eWwxYzN5NHNhbGVxN3Q1MXk2bjZ4YTlzdDJsM2ZvZndyYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif)
+</div>
+
+##
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
